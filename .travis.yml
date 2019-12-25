@@ -3,5 +3,4 @@ python:
   - "3.6"
 
 script:
- - pyhton main.py
- 
+ - python main.py
